@@ -5,4 +5,4 @@ function sum() {
   );
 }
 
-module.exports = sum;
+module.exports = sum
