@@ -51,4 +51,4 @@ it("Should sum two values and return an error", () => {
 // Test 03
 it("Should sum three values", () => {
   expect(sum(10, 10, 10)).toBe(30);
-})
+});
