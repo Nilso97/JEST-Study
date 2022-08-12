@@ -2,10 +2,8 @@
   "name": "tests",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Nilso97 <nilsojunior90@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "yarn": "^1.22.19"
-  },
   "scripts": {
     "test": "jest"
   },
